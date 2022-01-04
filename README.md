@@ -2,9 +2,9 @@
 
 > A quick introduction about me
 
-Hi, I'm __Gabriel__ a Machine Learning Engineer which loves programming and making open source projects (🧙‍♂️ open sourcerer).
+Hi, I'm __Gabriel__ a Machine Learning Engineer who loves programming and making open source projects (🧙‍♂️ open sourcerer).
 
-I'm mainly interested in Machine Learning 🧠, MLOps, Microservices and DevOps 👷, so you will find me in my spare time developing or contributing to things related to these fields. From time to time, I also like to write frontend code.
+I'm mainly interested in Software Engineering, Machine Learning 🧠, MLOps, Microservices and DevOps 👷, so you will find me in my spare time developing or contributing to things related to these fields. From time to time, I also like to write frontend code.
 
 ## Contact with me
 
